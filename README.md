@@ -75,6 +75,57 @@ My research aims to integrate biologically inspired neural dynamics with modern 
 
 ---
 
+## 🧪 Selected Research
+
+---
+
+### 🔬 Multitask Adversarial SNN (IJNS 2024)
+
+<p align="center">
+  <img src="images/2024.png" width="650"/>
+</p>
+
+A multitask adversarial learning framework based on **extensive nonlinear spiking neuron models**, integrating:
+- Bidirectional mapping with generators (G/F)
+- Cycle-consistency constraint
+- Mask-guided adversarial optimization
+
+> 🔍 Focus: Robust representation learning via spiking dynamics + adversarial training
+
+---
+
+### 🧠 LDN-SNP: Lightweight SNN (ESWA 2025)
+
+<p align="center">
+  <img src="images/2025.png" width="650"/>
+</p>
+
+A **lightweight deep network** built upon SNP neurons for efficient medical image segmentation.
+
+- SNP-type neuron with nonlinear transformation
+- ConvSNP / ConvSNP+ modules
+- Designed for **low-computation yet high-performance**
+
+> 🔍 Focus: Efficient spiking-based deep architectures for real-world deployment
+
+---
+
+### ⚡ AGSNP: Attention-Gated Graph SNN (IJNS 2026)
+
+<p align="center">
+  <img src="images/2026.png" width="650"/>
+</p>
+
+An **Attention-Gated Graph Spiking Neural Membrane System** for SAR prediction.
+
+- Temporal dynamics across multiple time steps
+- Attention-enhanced spiking neuron computation
+- Graph-based molecular representation learning
+
+> 🔍 Focus: Integrating attention + graph learning into spiking neural systems
+
+---
+
 ## 🚀 Research Focus
 
 - Graph-based Spiking Neural Networks  
