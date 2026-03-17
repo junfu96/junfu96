@@ -1,25 +1,29 @@
 <h1 align="center">Jun Fu (伏俊)</h1>
 
 <p align="center">
-  Ph.D. Candidate in Cyberspace Security <br>
+  <b>Ph.D. Candidate in Cyberspace Security</b><br>
   Beijing Electronic Science and Technology Institute (2024–2028)
 </p>
 
 <p align="center">
-  <a href="https://scholar.google.com/citations?hl=zh-CN&user=Y6lnJSgAAAAJ">Google Scholar</a> •
-  <a href="https://orcid.org/0009-0004-9599-3718">ORCID</a> •
-  <a href="mailto:junfu.xhu@foxmail.com">Email</a>
+  <a href="https://scholar.google.com/citations?hl=zh-CN&user=Y6lnJSgAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue">
+  </a>
+  <a href="https://orcid.org/0009-0004-9599-3718">
+    <img src="https://img.shields.io/badge/ORCID-0009--0004--9599--3718-green">
+  </a>
+  <a href="mailto:junfu.xhu@foxmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red">
+  </a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I am a second-year Ph.D. candidate specializing in **Spiking Neural Networks (SNNs)** for **Computer Vision**.  
-My research focuses on designing biologically inspired neural models and applying them to real-world vision and security problems.
+I am a Ph.D. candidate (2nd year) focusing on **Spiking Neural Networks (SNNs)** and their applications in **Computer Vision** and **Cyberspace Security**.
 
-> Research Statement:  
-> *Bridging spiking neural dynamics with modern deep learning frameworks for robust and interpretable visual intelligence.*
+My research aims to integrate biologically inspired neural dynamics with modern deep learning paradigms to improve **robustness**, **efficiency**, and **interpretability** in visual intelligence systems.
 
 ---
 
@@ -35,68 +39,68 @@ My research focuses on designing biologically inspired neural models and applyin
 
 ## 📚 Publications
 
-### 📝 2026
+### **2026**
 - **An Attention-Gated Graph Spiking Neural Membrane System for Structure-Activity Relationship Prediction**  
   *International Journal of Neural Systems (IJNS)*  
-  [Citation Link](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y6lnJSgAAAAJ&citation_for_view=Y6lnJSgAAAAJ:d1gkVwhDpl0C)
+  🔗 https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y6lnJSgAAAAJ&citation_for_view=Y6lnJSgAAAAJ:d1gkVwhDpl0C  
 
 ---
 
-### 📝 2025
+### **2025**
 - **LDN-SNP: SNP-based Lightweight Deep Network for CT Image Segmentation of COVID-19**  
   *Expert Systems with Applications (ESWA)*  
 
 ---
 
-### 📝 2024
+### **2024**
 - **Multitask Adversarial Networks Based on Extensive Nonlinear Spiking Neuron Models**  
   *International Journal of Neural Systems (IJNS)*  
-  [Citation Link](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y6lnJSgAAAAJ&citation_for_view=Y6lnJSgAAAAJ:u-x6o8ySG0sC)
+  🔗 https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=Y6lnJSgAAAAJ&citation_for_view=Y6lnJSgAAAAJ:u-x6o8ySG0sC  
 
 ---
 
 ## 🎓 Education
 
 - **Ph.D. in Cyberspace Security**  
-  Beijing Electronic Science and Technology Institute, Beijing  
-  *2024 – 2028 (Expected)*
+  Beijing Electronic Science and Technology Institute  
+  *2024 – 2028 (Expected)*  
 
 - **M.Eng. in Electronic Information**  
-  Xihua University, Chengdu  
-  *2021 – 2024*
+  Xihua University  
+  *2021 – 2024*  
 
 - **B.Eng. in Internet of Things Engineering**  
-  Xihua University, Chengdu  
-  *2016 – 2020*
+  Xihua University  
+  *2016 – 2020*  
 
 ---
 
-## 🚀 Selected Research Directions
+## 🚀 Research Focus
 
-- Graph-based Spiking Neural Models
-- Neural-Symbolic Systems
-- Robust Visual Forensics
-- Lightweight Deep Learning Architectures
+- Graph-based Spiking Neural Networks  
+- Neural-Symbolic Computing  
+- Visual Forensics & Image Manipulation Detection  
+- Lightweight Deep Learning Models  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=junfu96&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junfu96&layout=compact" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- Email: junfu.xhu@foxmail.com  
-- Google Scholar: https://scholar.google.com/citations?user=Y6lnJSgAAAAJ  
-- ORCID: https://orcid.org/0009-0004-9599-3718  
+- 📧 Email: junfu.xhu@foxmail.com  
+- 🎓 Google Scholar: https://scholar.google.com/citations?user=Y6lnJSgAAAAJ  
+- 🧬 ORCID: https://orcid.org/0009-0004-9599-3718  
 
 ---
 
 ## ⚡ Academic Vision
 
-> Developing next-generation spiking intelligence for trustworthy and efficient computer vision systems.
+> Toward biologically plausible and computationally efficient spiking intelligence for next-generation computer vision systems.
